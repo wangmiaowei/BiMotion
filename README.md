@@ -16,7 +16,7 @@
 ![BiMotion Teaser](assets/teaser.png)
 
 
-## 0. Open-Source Plan
+## 📑 0. Open-Source Plan
 
 We plan to release all components of our project according to the following schedule:
 
@@ -187,7 +187,6 @@ python dataset/download_dataset.py $DATASET_PATH
 For the training steps below, we provide a **SLURM script for single-node, multi-GPU training**.
 For **multi-node, multi-GPU setups**, we recommend using 👉 [idr_accelerate](https://github.com/idriscnrs/idr_accelerate).
 
----
 
 ### 4.2. Train the B-spline VAE Model
 
@@ -203,7 +202,6 @@ scripts/script_vae_bspline.sh
 sbatch scripts/script_vae_bspline.sh
 ```
 
----
 
 ### 4.3. Compute Global Latent Statistics
 
@@ -235,7 +233,7 @@ accelerate launch --num_processes 1 encode_latent_statistic.py \
 * Batch size can be adjusted based on your GPU memory.
 * This script saves **motion and static latent mean/std** in `dataset/data_statistics/`.
 
----
+
 
 ### 4.4. Train the Diffusion Model (DIT)
 
