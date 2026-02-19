@@ -1,0 +1,34 @@
+name: BiMotion
+
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+
+  # PyTorch + CUDA (Upgraded to 2.5.1 for better stability and xformers compatibility)
+  - pytorch=2.5.1
+  - torchvision=0.20.1
+  - torchaudio=2.5.1
+  - pytorch-cuda=12.4
+
+  # Core
+  - datasets
+  - git-lfs
+  - jupyter
+  - ninja  # Added to speed up PyTorch3D compilation
+
+  # Compiler / Runtime (Pinned to 11 for maximum compatibility with CUDA kernels)
+  - libstdcxx-ng
+  - gcc_linux-64=11
+  - gxx_linux-64=11
+
+  # Pip
+  - pip
+  - pip:
+      - iopath
+      - fvcore
+      - xformers==0.0.29  # Matches Torch 2.5.1

@@ -1,0 +1,3 @@
+model:
+  enc_depth: 8
+  num_inputs: 4096

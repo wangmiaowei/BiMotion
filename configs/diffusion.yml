@@ -1,0 +1,9 @@
+model:
+  width: 512
+  layers: 12
+  heads: 8
+  cond_drop_prob: 0.1
+  input_channels: 64
+  output_channels: 64
+  use_fp16: true
+
