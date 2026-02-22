@@ -7,11 +7,9 @@
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Datasets-ffcc00?style=for-the-badge)](https://huggingface.co/datasets/miaoweiwang/BiMotion)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
-**[Miaowei Wang](https://wangmiaowei.github.io/)<sup>1</sup> · [Yibo Zhang](https://github.com/YiboZhang)<sup>2</sup> · Rui Ma<sup>2</sup> · Weiwei Xu<sup>3</sup> · Changqing Zou<sup>3</sup> · Daniel Morris<sup>4</sup>**
+**[Miaowei Wang](https://wangmiaowei.github.io/)<sup>1</sup> · [Qingxuan Yan](https://www.linkedin.com/in/qingxuan-yan-468258395/)<sup>2</sup> · [Zhi Cao](https://www.linkedin.com/in/zhi-cao-3147b1266/)<sup>3</sup> · [Yayuan Li](https://www.linkedin.com/in/yayuan-li-148659272/)<sup>3</sup> · [Oisin Mac Aodha](https://homepages.inf.ed.ac.uk/omacaod/)<sup>1</sup> · [Jason J. Corso](https://web.eecs.umich.edu/~jjcorso/)<sup>3</sup> · [Amir Vaxman](https://avaxman.github.io/)<sup>1</sup>**
 
-<sup>1</sup>University of Edinburgh | <sup>2</sup>Jilin University | <sup>3</sup>Zhejiang University | <sup>4</sup>Michigan State University
-
-</div>
+<sup>1</sup>University of Edinburgh | <sup>2</sup>Cornell University | <sup>3</sup>University of Michigan
 
 ![BiMotion Teaser](assets/teaser.png)
 
