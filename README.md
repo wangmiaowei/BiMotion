@@ -2,8 +2,8 @@
 
 <div align="center">
 
-[![Project Page](https://img.shields.io/badge/Project-Page-green?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wangmiaowei.github.io/DecoupledGaussian.github.io/)
-[![arXiv](https://img.shields.io/badge/arXiv-2503.05484-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2503.05484v1)
+[![Project Page](https://img.shields.io/badge/Project-Page-green?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wangmiaowei.github.io/BiMotion.github.io/)
+[![arXiv](https://img.shields.io/badge/arXiv-2503.05484-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2602.18873)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Datasets-ffcc00?style=for-the-badge)](https://huggingface.co/datasets/miaoweiwang/BiMotion)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
