@@ -1,4 +1,4 @@
-# BiMotion: B-spline Motion for Text-guided Dynamic 3D Character Generation [TODO: Replace authors,arXiv,Project Page]
+# BiMotion: B-spline Motion for Text-guided Dynamic 3D Character Generation
 
 <div align="center">
 
@@ -18,7 +18,7 @@
 
 We plan to release all components of our project according to the following schedule:
 
-- ⬜ Paper release – before 25/02/2026
+- ✅ Paper release – before 25/02/2026
 - ⬜ Project page setup – before 25/02/2026
 - ✅ Inference code & model weights – released
 - ✅ BIMO dataset – released
@@ -257,9 +257,8 @@ If you find BiMotion useful in your research, please cite:
 ```bibtex
 @article{wang2025bimotion,
   title={BiMotion: B-spline Motion for Text-guided Dynamic 3D Character Generation},
-  author={Wang, Miaowei and Zhang, Yibo and Ma, Rui and Xu, Weiwei and Zou, Changqing and Morris, Daniel},
-  journal={arXiv preprint arXiv:2503.05484},
-  year={2026}
-}
+  author={Miaowei Wang and Qingxuan Yan and Zhi Cao and Yayuan Li and Oisin Mac Aodha and Jason J. Corso and Amir Vaxman},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year= {2026},}
 
 ```
