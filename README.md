@@ -12,7 +12,7 @@
 <sup>1</sup>University of Edinburgh | <sup>2</sup>Cornell University | <sup>3</sup>University of Michigan
 
 ![BiMotion Teaser](assets/teaser.png)
-
+</div>
 
 ## 📑 0. Open-Source Plan
 
@@ -259,6 +259,7 @@ If you find BiMotion useful in your research, please cite:
   title={BiMotion: B-spline Motion for Text-guided Dynamic 3D Character Generation},
   author={Miaowei Wang and Qingxuan Yan and Zhi Cao and Yayuan Li and Oisin Mac Aodha and Jason J. Corso and Amir Vaxman},
   booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year= {2026},}
+  year= {2026},
+}
 
 ```
