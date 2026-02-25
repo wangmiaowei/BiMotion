@@ -1,4 +1,4 @@
-# BiMotion: B-spline Motion for Text-guided Dynamic 3D Character Generation
+# [CVPR2026] BiMotion: B-spline Motion for Text-guided Dynamic 3D Character Generation
 
 <div align="center">
 
