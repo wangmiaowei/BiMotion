@@ -19,7 +19,7 @@
 We plan to release all components of our project according to the following schedule:
 
 - ✅ Paper release – before 25/02/2026
-- ⬜ Project page setup – before 25/02/2026
+- ✅ Project page setup – before 25/02/2026
 - ✅ Inference code & model weights – released
 - ✅ BIMO dataset – released
 - ✅ Training scripts – released
