@@ -23,7 +23,7 @@ We plan to release all components of our project according to the following sche
 - ✅ Inference code & model weights – released
 - ✅ BIMO dataset – released
 - ✅ Training scripts – released
-- ⬜ Dataset preprocessing scripts – before 27/02/2026
+- ⬜ Dataset preprocessing scripts – before 27/03/2026
 
 ## 📝 1. Abstract
 
