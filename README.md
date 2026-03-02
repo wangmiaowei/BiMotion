@@ -9,7 +9,7 @@
 
 **[Miaowei Wang](https://wangmiaowei.github.io/)<sup>1</sup> · [Qingxuan Yan](https://www.linkedin.com/in/qingxuan-yan-468258395/)<sup>2</sup> · [Zhi Cao](https://www.linkedin.com/in/zhi-cao-3147b1266/)<sup>3</sup> · [Yayuan Li](https://www.linkedin.com/in/yayuan-li-148659272/)<sup>3</sup> · [Oisin Mac Aodha](https://homepages.inf.ed.ac.uk/omacaod/)<sup>1</sup> · [Jason J. Corso](https://web.eecs.umich.edu/~jjcorso/)<sup>3,4</sup> · [Amir Vaxman](https://avaxman.github.io/)<sup>1</sup>**
 
-<sup>1</sup>University of Edinburgh | <sup>2</sup>Cornell University | <sup>3</sup>University of Michigan |<sup>4</sup>Voxel51
+<sup>1</sup>University of Edinburgh | <sup>2</sup>Cornell University | <sup>3</sup>University of Michigan | <sup>4</sup>Voxel51
 
 ![BiMotion Teaser](assets/teaser.png)
 </div>
