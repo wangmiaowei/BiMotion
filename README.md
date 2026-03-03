@@ -156,7 +156,7 @@ python demo_evaluate_mesh.py \
 * 🎲 **Try Multiple Seeds** — Outputs vary; experiment with different seeds.
 * 🎚️ **Adjust Guidance Scale** — Increase to **5.0** if motion is too subtle.
 * ✍️ **Refine Prompts** — Rephrase or use keywords similar to BIMO annotations.
-* 🧭 **Check Mesh Orientation** — Ensure **Z-up** and **facing +Y**.
+* 🧭 **Check Mesh Orientation** — Ensure **Z-up** and **facing -Y**.
 
 
 
