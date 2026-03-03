@@ -250,7 +250,7 @@ sbatch scripts/script_dit_bspline.sh
 **Notes:** Keep the trained VAE checkpoints **the same as step 4.3** when providing input to the diffusion model.
 
 
-## 📜 Citation [TODO: Replace]
+## 📜 Citation 
 
 If you find BiMotion useful in your research, please cite:
 
